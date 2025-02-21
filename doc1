@@ -1,2 +1,10 @@
-hiii i am kishore 
-this file change by another devloper
+hello!
+this is git and github repo praticing 
+git clone - to clone repo to system from github
+
+for push changes----
+git add . < all files consideration
+git commit -m "file name" ---- to changes from system
+git push origin main(branch name)
+git pull origin main( to commit changes occured at github to system
+
